@@ -46,6 +46,6 @@ module.exports = {
     },
 
     async destroy(req, res) {
-        
+        console.log('teste');
     }
 }
